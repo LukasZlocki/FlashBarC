@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Files",
+      "command": "nautilus",
+      "icon": "system-file-manager"
+    },
+    {
+      "name": "Terminal",
+      "command": "x-terminal-emulator",
+      "icon": "utilities-terminal"
+    }
+  ]
+}
